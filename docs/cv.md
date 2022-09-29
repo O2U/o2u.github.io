@@ -4,8 +4,6 @@ title: CV
 permalink: /CV/
 ---
 
-# CV
-
 ## RYO OZURU
 
 ### Education and professional experience
