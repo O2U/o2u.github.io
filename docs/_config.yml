@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ryo Ozuru Web page
+title: Ryo Ozuru, Ph.D
 email: ozuru[at]fukuoka-u.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  Ryo Ozuru, Ph.D
+  Ryo Ozuru, Ph.D<br>
   Bacteriology, Bioinformatics, Statistics
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
