@@ -1,4 +1,8 @@
-## Publication
+---
+layout: page
+title: Publication
+permalink: /publication/
+---
 
 ### 2022
 
