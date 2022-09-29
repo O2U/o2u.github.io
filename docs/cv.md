@@ -1,3 +1,9 @@
+---
+layout: page
+title: CV
+permalink: /CV/
+---
+
 # CV
 
 ## RYO OZURU
