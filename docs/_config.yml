@@ -21,8 +21,7 @@
 title: Ryo Ozuru, Ph.D
 email: ozuru[at]fukuoka-u.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  Ryo Ozuru, Ph.D<br>
-  Bacteriology, Bioinformatics, Statistics
+  Department of Microbiology and Immunology, Faculty of Medicine, Fukuoka University, Japan
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Dr_O2U
