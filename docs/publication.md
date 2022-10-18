@@ -28,6 +28,6 @@ permalink: /publications/
 ### 2017
 - Ozuru R\*, Saito M, Kanemaru T, Miyahara S, Villanueva SYAM, Murray GL, et al. Adipose tissue is the first colonization site of Leptospira interrogans in subcutaneously infected hamsters. PLoS One. 2017;12: e0172973.
 
-### Before 2016
+### Before 2017
 - Saito M, Villanueva SYAM, Masuzawa T, Haraguchi Y, Ita S, Miyahara S, et al. The usefulness of semi-solid medium in the isolation of highly virulent Leptospira strains from wild rats in an urban area of Fukuoka, Japan. Microbiol Immunol. 2015;59: 322–330.
 - Saito M, Villanueva SYAM, Chakraborty A, Miyahara S, Segawa T, Asoh T, et al. Comparative analysis of Leptospira strains isolated from environmental soil and water in the Philippines and Japan. Appl Environ Microbiol. 2013;79: 601–609.
