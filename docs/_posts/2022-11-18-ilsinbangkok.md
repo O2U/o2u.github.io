@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Presented at ILS / ILSで発表しました。"
-date:   2022-09-29 16:35:48 +0900
+date:   2022-11-18 16:35:48 +0900
 categories: News
 ---
 
