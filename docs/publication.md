@@ -7,6 +7,9 @@ permalink: /publications/
 \*: corresponding author  
 †: equal contribution
 
+### 2023
+- Kurihara Y, Walenna NF, Ishii K, Soejima T, Chou B, Yoshimura M, Ozuru R, et al. Chlamydia pneumoniae Lung Infection in Mice Induces Fatty Acid--Binding Protein 4--Dependent White Adipose Tissue Pathology. J Immunol. 2023; ji2200601.
+
 ### 2022
 - Obata F, Murota H, Shibata S, Ozuru R, Fujii J. Investigation of Bacteria from Spoiled Bottled Salad Dressing Leading to Gas Explosion. Yonago Acta Med. 2022;65: 207–214.
 - Sakamoto A, Yoshimura M, Itoh R, Ozuru R, Ishii K, Sechi Y, et al. Longitudinal Dynamics of SARS-CoV-2 IgG Antibody Responses after the Two-Dose Regimen of BNT162b2 Vaccination and the Effect of a Third Dose on Healthcare Workers in Japan. Vaccines. 2022;10: 830.
