@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Systems Microbiology**
+## Systems Microbiology
 I am interested in pathogenic bacteria that cause infectious diseases, particularly spirochetes. My primary focus is on *Leptospira* and the relationship between its metabolic systems and pathogenicity. Through systems biology approaches, I integrate experimental biology with computational science to uncover and elucidate novel biological phenomena.
 
 <!--
