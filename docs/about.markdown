@@ -7,7 +7,7 @@ permalink: /about/
 ## Systems Microbiology
 I am interested in pathogenic bacteria that cause zoonoses, particularly spirochetes. My primary focus is on *Leptospira* and the relationship between its metabolic systems and pathogenicity (Ozuru R, et al. PLoS One. 2017). Through systems biology approaches, I integrate experimental biology with computational science to uncover and elucidate novel biological phenomena.
 
-## AI systems for infectious disease
+## AI-assisted Diagnostic Systems for Infectious Diseases
 I am also engaged in the development of AI-assisted diagnostic systems. The microscopic agglutination test (MAT), a standard method for diagnosing leptospirosis, has traditionally relied on subjective evaluation by examiners. We are working to automate and objectify this process using artificial intelligence (Nakano R, et al. J Microbiol Methods. 2024, Oyamada Y, et al. PLoS One. 2021).
 
 
