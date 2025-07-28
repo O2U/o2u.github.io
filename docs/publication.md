@@ -7,8 +7,17 @@ permalink: /publications/
 \*: corresponding author  
 †: equal contribution
 
+### 2025
+- Ozuru R*, Yamagishi J, Takeuchi A, Date Y, Fujii T, Sugimoto C, et al. Unification of symbiotic bacteria during larva-to-adult transition in Culicoides circumscriptus (Diptera: Ceratopogonidae). FEMS Microbiol Lett. 2025;372. doi:10.1093/femsle/fnaf069
+- Kurihara Y, Shimizu A, Ozuru R, Yoshimura M, Chou B, Itoh R, et al. Mycobacterium abscessus resides within lipid droplets and acquires a dormancy-like phenotype in adipocytes. Biochem Biophys Res Commun. 2025; 151645.
+
+### 2024
+- Nakano R, Oyamada Y\*, Ozuru R\*, Yoshimura M, Hiromatsu K. Objectification of evaluation criteria in microscopic agglutination test using deep learning. J Microbiol Methods. 2024;222: 106955.
+- Yoshimura M, Sakamoto A, Ozuru R, Kurihara Y, Itoh R, Ishii K, et al. Insufficient anti-spike RBD IgA responses after triple vaccination with intramuscular mRNA BNT162b2 vaccine against SARS-CoV-2. Heliyon. 2024;10: e23595.
+- Yoshimura M, Sakamoto A, Ozuru R, Kurihara Y, Itoh R, Ishii K, et al. The appearance of anti-spike receptor binding domain immunoglobulin G4 responses after repetitive immunization with messenger RNA-based COVID-19 vaccines. Int J Infect Dis. 2024;139: 1–5.
+
 ### 2023
-- Kurihara Y, Walenna NF, Ishii K, Soejima T, Chou B, Yoshimura M, Ozuru R, et al. Chlamydia pneumoniae Lung Infection in Mice Induces Fatty Acid--Binding Protein 4--Dependent White Adipose Tissue Pathology. J Immunol. 2023; ji2200601.
+- Kurihara Y, Walenna NF, Ishii K, Soejima T, Chou B, Yoshimura M, Ozuru R, et al. Chlamydia pneumoniae Lung Infection in Mice Induces Fatty Acid-Binding Protein 4-Dependent White Adipose Tissue Pathology. J Immunol. 2023;210: 1086–1097.
 
 ### 2022
 - Obata F, Murota H, Shibata S, Ozuru R, Fujii J. Investigation of Bacteria from Spoiled Bottled Salad Dressing Leading to Gas Explosion. Yonago Acta Med. 2022;65: 207–214.
