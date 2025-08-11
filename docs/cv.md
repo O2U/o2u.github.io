@@ -122,11 +122,16 @@ The major goal of this study is to find colonization factors of Leptospira in or
 
 2023, The 21st Awaji International Forum on Infection and Immunity, Nagano, Japan.
 
+2024, Philippine Society for Microbiology Cluster 1 Symposium: Computational Microbiology and Biotechnology in
+an Evolving Microbial World, Manila, Philippines (Invited)
+
 2024, The International Leptospirosis Society Scientific Meeting, Brussels, Belgium.
 
 2025, International Conference On Emerging Infectious Diseases In The Pacific Rim, Tokyo, Japan.
 
 2025, The 1st International Online Conference on Clinical Reports, Virtual. (Invited)
+
+2025, 34th Philippine Association for Laboratory Animal Science (PALAS) Annual Scientific Conference, Manila, Philippines (Invited)
 
 ##### Poster presentation
 
