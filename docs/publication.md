@@ -8,11 +8,11 @@ permalink: /publications/
 †: equal contribution
 
 ### 2025
-__- Ozuru R*, Yamagishi J, Takeuchi A, Date Y, Fujii T, Sugimoto C, et al. Unification of symbiotic bacteria during larva-to-adult transition in Culicoides circumscriptus (Diptera: Ceratopogonidae). FEMS Microbiol Lett. 2025;372. doi:10.1093/femsle/fnaf069__
+- __Ozuru R*, Yamagishi J, Takeuchi A, Date Y, Fujii T, Sugimoto C, et al. Unification of symbiotic bacteria during larva-to-adult transition in Culicoides circumscriptus (Diptera: Ceratopogonidae). FEMS Microbiol Lett. 2025;372. doi:10.1093/femsle/fnaf069__
 - Kurihara Y, Shimizu A, Ozuru R, Yoshimura M, Chou B, Itoh R, et al. Mycobacterium abscessus resides within lipid droplets and acquires a dormancy-like phenotype in adipocytes. Biochem Biophys Res Commun. 2025; 151645.
 
 ### 2024
-__- Nakano R, Oyamada Y\*, Ozuru R\*, Yoshimura M, Hiromatsu K. Objectification of evaluation criteria in microscopic agglutination test using deep learning. J Microbiol Methods. 2024;222: 106955.__
+- __Nakano R, Oyamada Y\*, Ozuru R\*, Yoshimura M, Hiromatsu K. Objectification of evaluation criteria in microscopic agglutination test using deep learning. J Microbiol Methods. 2024;222: 106955.__
 - Yoshimura M, Sakamoto A, Ozuru R, Kurihara Y, Itoh R, Ishii K, et al. Insufficient anti-spike RBD IgA responses after triple vaccination with intramuscular mRNA BNT162b2 vaccine against SARS-CoV-2. Heliyon. 2024;10: e23595.
 - Yoshimura M, Sakamoto A, Ozuru R, Kurihara Y, Itoh R, Ishii K, et al. The appearance of anti-spike receptor binding domain immunoglobulin G4 responses after repetitive immunization with messenger RNA-based COVID-19 vaccines. Int J Infect Dis. 2024;139: 1–5.
 
@@ -26,19 +26,19 @@ __- Nakano R, Oyamada Y\*, Ozuru R\*, Yoshimura M, Hiromatsu K. Objectification 
 - Obata F, Ozuru R, Tsuji T, Matsuba T, Fujii J. Stx2 Induces Differential Gene Expression and Disturbs Circadian Rhythm Genes in the Proximal Tubule. Toxins. 2022;14. doi:10.3390/toxins14020069
 
 ### 2021
-__- Oyamada Y†, Ozuru R†\*, Masuzawa T, Miyahara S, Nikaido Y, Obata F, et al. A machine learning model of microscopic agglutination test for diagnosis of leptospirosis. PLoS One. 2021;16: e0259907.__
+- __Oyamada Y†, Ozuru R†\*, Masuzawa T, Miyahara S, Nikaido Y, Obata F, et al. A machine learning model of microscopic agglutination test for diagnosis of leptospirosis. PLoS One. 2021;16: e0259907.__
 
 ### 2020
-__- Ozuru R, Wakao S, Tsuji T, Ohara N, Matsuba T, Amuran MY, et al. Rescue from Stx2-Producing E. coli-Associated Encephalopathy by Intravenous Injection of Muse Cells in NOD-SCID Mice. Mol Ther. 2020;28: 100–118.__
+- __Ozuru R, Wakao S, Tsuji T, Ohara N, Matsuba T, Amuran MY, et al. Rescue from Stx2-Producing E. coli-Associated Encephalopathy by Intravenous Injection of Muse Cells in NOD-SCID Mice. Mol Ther. 2020;28: 100–118.__
 
 ### 2019
 - Bai G, Matsuba T, Kikuchi H, Chagan-Yasutan H, Motoda H, Ozuru R, et al. Inhibition of inflammatory-molecule synthesis in THP-1 cells stimulated with phorbol 12-myristate 13-acetate by brefelamide derivatives. Int Immunopharmacol. 2019;75: 105831.
 
 ### 2018
-__- Bai G†, Motoda H†, Ozuru R†, Chagan-Yasutan H, Hattori T, Matsuba T. Synthesis of a Cleaved Form of Osteopontin by THP-1 Cells and Its Alteration by Phorbol 12-Myristate 13-Acetate and BCG Infection. Int J Mol Sci. 2018;19. doi:10.3390/ijms19020418__
+- __Bai G†, Motoda H†, Ozuru R†, Chagan-Yasutan H, Hattori T, Matsuba T. Synthesis of a Cleaved Form of Osteopontin by THP-1 Cells and Its Alteration by Phorbol 12-Myristate 13-Acetate and BCG Infection. Int J Mol Sci. 2018;19. doi:10.3390/ijms19020418__
 
 ### 2017
-__- Ozuru R\*, Saito M, Kanemaru T, Miyahara S, Villanueva SYAM, Murray GL, et al. Adipose tissue is the first colonization site of Leptospira interrogans in subcutaneously infected hamsters. PLoS One. 2017;12: e0172973.__
+- __Ozuru R\*, Saito M, Kanemaru T, Miyahara S, Villanueva SYAM, Murray GL, et al. Adipose tissue is the first colonization site of Leptospira interrogans in subcutaneously infected hamsters. PLoS One. 2017;12: e0172973.__
 
 ### Before 2017
 - Saito M, Villanueva SYAM, Masuzawa T, Haraguchi Y, Ita S, Miyahara S, et al. The usefulness of semi-solid medium in the isolation of highly virulent Leptospira strains from wild rats in an urban area of Fukuoka, Japan. Microbiol Immunol. 2015;59: 322–330.
