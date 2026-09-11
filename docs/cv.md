@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /CV/
 ---
-(Update: August 11, 2025)
+(Update: September 11, 2026)
 
 ## RYO OZURU / 尾鶴 亮
 
